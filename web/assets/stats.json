@@ -1,0 +1,12 @@
+{
+  "hash": "5abe1b7e1623278a3b9d",
+  "assetsByChunkName": {
+    "runtime": "runtime.bundle.js",
+    "app": [
+      "1.fcd3e59f2154d2516505.styles.css",
+      "chunk.1cb3c2170f3d7682900b.js"
+    ],
+    "vendor": "chunk.d3cfad62751f921bcf54.js"
+  },
+  "publicPath": "./"
+}

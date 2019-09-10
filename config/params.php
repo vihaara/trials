@@ -1,11 +1,11 @@
 <?php
 
 $params = [
-    'adminEmail' => 'info@arsvihaaraholidays.com',
-    'apiToken' => 'cefc614817896aea42eb848c8a79bac9', // Token https://www.travelpayouts.com/developers/api
-    'apiMarker' => '235169',  // Marker https://www.travelpayouts.com/developers/api
+    'adminEmail' => <email>,
+    'apiToken' => <apitoken>, // Token https://www.travelpayouts.com/developers/api
+    'apiMarker' => <apimarker>,  // Marker https://www.travelpayouts.com/developers/api
     'apiResponseLang' => 'en', // Response language : en,ru,de,es,fr,it,pl,th.
-    'title' => 'TravelPayoutsapp', // Title of your app
+    'title' => <app name>, // Title of your app
     'baseUrl' => '/flights1'
 ];
 
